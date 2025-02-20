@@ -6,3 +6,4 @@ y2 = tmh(7,m,b);
 y3 = tmh(1,m,b);
 y4 = tmh(5,m,b);
 y5 = tmh(5,m,b);
+y6 = tmh(5,m,b);
